@@ -9,6 +9,7 @@
   "author": "Prithesh Dwivedi",
   "license": "ISC",
   "dependencies": {
+    "node": "^17.4.0",
     "nodemon": "^2.0.15",
     "socket.io": "^4.4.1"
   }
