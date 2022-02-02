@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Prithesh Dwivedi",
   "license": "ISC",
   "dependencies": {
+    "build": "^0.1.4",
+    "heroku": "^7.59.2",
     "node": "^17.4.0",
     "nodemon": "^2.0.15",
     "socket.io": "^4.4.1"
